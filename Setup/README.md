@@ -14,4 +14,4 @@ Note that the items listed above will be useful for ad hoc scripts, executed int
 
 All of the .NET interactive notebooks in this repository are viewable directly in GitHub as well, if you don't want to set up the components on your local machine. 
 
-One you've completed the setup, proceed to [testing authentication](Testing-Authentication).
+One you've completed the setup, proceed to [testing authentication](https://github.com/sqlchick/Power-BI-Admin/tree/main/Testing-Authentication).
